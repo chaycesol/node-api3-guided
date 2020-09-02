@@ -16,3 +16,13 @@ In this project we will learn how to create a very simple Web API using `Node.js
 - [ ] type `npm i` to download dependencies.
 
 Please follow along as the instructor creates and adds `middleware` to the API step by step.
+
+
+Types of Middleware
+- built-in: no need to install anything
+- third party: needs to be npm installed
+- custom: we write it! the fun part!
+
+Using Middleare
+- globally
+- locally
